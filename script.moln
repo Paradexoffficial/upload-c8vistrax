@@ -1,6 +1,6 @@
-// SCRIPT IS OPEN-SOURCE APIS ARE NOT UNLESS UNI DECODED WHICH WE DO NOT SUPPORT
+-- SCRIPT IS OPEN-SOURCE APIS ARE NOT UNLESS UNI DECODED WHICH WE DO NOT SUPPORT
 
-//sc = "v:16v61"{repeat}
+-- sc = "v:16v61"{repeat}
 
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
